@@ -1,4 +1,4 @@
-# AFKRahool (Depracated)
+# AFKRahool (Deprecated)
 Guess I don't need to add more monitor ratios, Rahool doesn't sell mats anymore.
 
 
